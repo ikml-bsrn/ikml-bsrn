@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**ikml-bsrn/ikml-bsrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ikmal, a second-year Data Science student passionate about solving real-world problems with ethical, data-driven solutions.
 
-Here are some ideas to get you started:
+I focus on goal-oriented decision-making: asking the right questions, using the right tools, and continuously improving along the way. Whether it's building predictive models, analysing messy datasets, or exploring image classification, I'm all about learning and creating value with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I work with:
+- **Database design & data modeling**
+- **Machine Learning** - regression, classification, ensemble models
+- **Deep Learning** - image classification (YOLOv5, v8, v11)
+- **Python**, **SQL**, **Pandas**, **scikit-learn**, **XGBoost**, **Ultralytics**, and more
+
+### 🚧 Projects in Progress
+- **NYC Transportation Demand Forecasting**  
+  Live dashboard + API integrations for For-Hire Vehicles (FHV) demand prediction.
+
+### ✨ Recent Highlights
+- Led a **YOLO-based human detection** project for wilderness search and rescue (WiSAR)
+- Explored **model comparison** using NYC trip data (Linear, RF, XGBoost, DL)
+
+---
+
+Welcome to my GitHub! Check out my projects or connect with me below 👇
+
+[LinkedIn](www.linkedin.com/in/ikmal-basirun-175946214)
