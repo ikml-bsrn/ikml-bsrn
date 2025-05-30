@@ -18,7 +18,11 @@ I focus on goal-oriented decision-making: asking the right questions, using the 
 - Led a **YOLO-based human detection** project for wilderness search and rescue (WiSAR)
 - Explored **model comparison** using NYC trip data (Linear, RF, XGBoost, DL)
 
----
+### 🌱 Currently:
+- Expanding my project portfolio
+- Actively seeking **Summer 2025 Data Science Internship** opportunities
+- Strengthening my Python, data analysis, and machine learning skills
+  through hands-on practice and deeper exploration
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
 
