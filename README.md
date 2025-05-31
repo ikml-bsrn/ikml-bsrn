@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Ikmal, a second-year Data Science student passionate about solving real-world problems with ethical, data-driven solutions.
+I'm Ikmal, a second-year Data Science student at The University of Sheffield, passionate about solving real-world problems with ethical, data-driven solutions.
 
 I focus on goal-oriented decision-making: asking the right questions, using the right tools, and continuously improving along the way. Whether it's building predictive models, analysing messy datasets, or exploring image classification, I'm all about learning and creating value with data.
 
