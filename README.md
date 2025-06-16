@@ -6,17 +6,19 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 
 ### 🛠️ What I work with:
 - **Database design & data modeling**
+- **Python**, **SQL**, **Pandas**, **scikit-learn**, **XGBoost**, **Ultralytics**, and more
+- **Data Visualisation** - Tableau, Matplotlib, Seaborn
 - **Machine Learning** - regression, classification, ensemble models
 - **Deep Learning** - image classification (YOLOv5, v8, v11)
-- **Python**, **SQL**, **Pandas**, **scikit-learn**, **XGBoost**, **Ultralytics**, and more
+
 
 ### 🚧 Projects in Progress
 - **NYC Transportation Demand Forecasting**  
-  Live dashboard + API integrations for For-Hire Vehicles (FHV) demand prediction.
+  Live dashboard + API integrations for transportation demand prediction.
 
 ### ✨ Recent Highlights
 - Led a **YOLO-based human detection** project for wilderness search and rescue (WiSAR)
-- Explored **model comparison** using NYC trip data (Linear, RF, XGBoost, DL)
+- Explored **model comparison** using NYC trip data (Linear, RF, XGBoost, Deep Learning)
 
 ### 🌱 Currently:
 - Expanding my project portfolio
