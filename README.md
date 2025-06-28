@@ -23,7 +23,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
   and historical weather data using Open-Meteo API.
 
 ### 🌱 Currently:
-- Expanding my project portfolio
+- Working towards acquiring **Microsoft Azure Data Scientist Associate** Certification 
 - Actively seeking **Summer 2025 Data Science Internship** opportunities
 - Strengthening my Python, data cleaning, and machine learning skills
   through hands-on practice and deeper exploration
