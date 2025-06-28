@@ -30,4 +30,4 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
 
-[LinkedIn](www.linkedin.com/in/ikmal-basirun-175946214)
+[LinkedIn](https://www.linkedin.com/in/ikmal-basirun-175946214/)
