@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I'm Ikmal, a penultimate-year Data Science student at The University of Sheffield, passionate about solving real-world problems with ethical, data-driven solutions.
+I'm Ikmal, a final-year Data Science student at The University of Sheffield, passionate about solving real-world problems with data-driven solutions.
 
 I like to focus on goal-oriented decision-making, meaning asking the right questions for a problem, using the right tools, and continuously improving along the way. Whether it's building predictive models, analysing messy datasets, or creating the best dashboard, I'm all about learning and creating value with data.
 
@@ -14,7 +14,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 
 ### 🚧 Projects in Progress
 - **NYC Transportation Demand Forecasting**  
-  Dashboard + API integrations for transportation demand prediction.
+  Tableau Dashboards + API integrations for transportation demand analysis (and soon, forecasting).
 
 ### ✨ Recent Highlights
 - Led a **YOLO-based human detection** project for wilderness search and rescue (WiSAR).
@@ -24,7 +24,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 
 ### 🌱 Currently:
 - Working towards acquiring **Microsoft Azure Data Scientist Associate** Certification 
-- Actively seeking **Summer 2025 Data Science Internship** opportunities
+- Actively seeking **2026 Data Science Graduate Programme** and **Part-time Data Analyst** opportunities
 - Strengthening my Python, data cleaning, and machine learning skills
   through hands-on practice and deeper exploration
 
