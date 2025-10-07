@@ -5,11 +5,11 @@ I'm Ikmal, a final-year Data Science student at The University of Sheffield, pas
 I like to focus on goal-oriented decision-making, meaning asking the right questions for a problem, using the right tools, and continuously improving along the way. Whether it's building predictive models, analysing messy datasets, or creating the best dashboard, I'm all about learning and creating value with data.
 
 ### 🛠️ What I work with:
-- **Database design & data modeling**
+- **Database design & data modeling** - Microsoft Access, SQLite, PostgreSQL
 - **Python**, **SQL**, **Pandas**, **scikit-learn**, **XGBoost**, **Ultralytics**, and more
 - **Data Visualisation** - Tableau, Matplotlib, Seaborn
 - **Machine Learning** - regression, classification, ensemble models
-- **Deep Learning** - image classification (YOLOv5, v8, v11)
+- **Deep Learning** - Tensorflow, image classification (YOLOv5, v8, v11)
 
 
 ### 🚧 Projects in Progress
@@ -17,6 +17,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
   Tableau Dashboards + API integrations for transportation demand analysis (and soon, forecasting).
 
 ### ✨ Recent Highlights
+- Built an **end-to-end Python pipeline**, from acquiring data through API to cleaning and transformation, to create a transportation demand dashboard in NYC.
 - Led a **YOLO-based human detection** project for wilderness search and rescue (WiSAR).
 - Built and evaluated **tree-based (Random Forest, XGBoost) and
   deep learning (Tensorflow) models** using real-world NYC trip data
