@@ -23,10 +23,9 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
   and historical weather data using Open-Meteo API.
 
 ### 🌱 Currently:
-- Working towards acquiring **Microsoft Azure Data Scientist Associate** Certification 
+- Working towards acquiring **AWS Cloud Practitioner** Certification (via AWS Academy)
+- Initiating final-year project at university
 - Actively seeking **2026 Data Science Graduate Programme** and **Part-time Data Analyst** opportunities
-- Strengthening my Python, data cleaning, and machine learning skills
-  through hands-on practice and deeper exploration
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
 
