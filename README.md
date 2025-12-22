@@ -44,7 +44,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
   and historical weather data using Open-Meteo API.
 
 ### 🌱 Currently:
-- Learning the implementation of **FastAPI/REST API **and exploring **Local/Cloud Agentic AI Systems** using LLMs and SLMs.
+- Learning the implementation of **FastAPI/REST API** and exploring **Local/Cloud Agentic AI Systems** using LLMs and SLMs.
 - Researching for final-year dissertation at university
 - Actively seeking **2026 Data Science Graduate Programme** and **Entry-level AI/ML Engineer** opportunities
 
