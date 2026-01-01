@@ -35,7 +35,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 ![Seaborn](https://img.shields.io/badge/Seaborn-77ACF1?style=for-the-badge&logo=python&logoColor=white)
 
 ### ✨ Recent Highlights
-- Developed a **containerised RAG pipeline** for medical Question-Answering (QA) using LangChain, Hugging Face Transformers, Docker and Streamlit.
+- Developed a **containerised RAG pipeline** for medical Question-Answering (QA) using LangChain, Hugging Face Transformers, Docker and FastAPI.
 - Completed Cloud Essentials course for **AWS Cloud Practitioner** via AWS Academy
 - Built an **end-to-end Python pipeline**, from acquiring data through API to cleaning and transformation, to create a transportation demand dashboard in NYC.
 - Led a **YOLO-based human detection** project for wilderness search and rescue (WiSAR).
@@ -44,7 +44,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
   and historical weather data using Open-Meteo API.
 
 ### 🌱 Currently:
-- Learning the implementation of **FastAPI/REST API** and exploring **Local/Cloud Agentic AI Systems** using LLMs and SLMs.
+- Designing a Digital Twin project and exploring **Local/Cloud Agentic AI Systems** using LLMs and SLMs.
 - Researching for final-year dissertation at university
 - Actively seeking **2026 Data Science Graduate Programme** and **Entry-level AI/ML Engineer** opportunities
 
