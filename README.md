@@ -46,7 +46,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 ### 🌱 Currently:
 - Designing a Digital Twin project and exploring **Local/Cloud Agentic AI Systems** using LLMs and SLMs.
 - Researching for final-year dissertation at university
-- Actively seeking **2026 Data Science Graduate Programme** and **Entry-level AI/ML Engineer** opportunities
+- Actively seeking **2026 Data Science Graduate Programme** and **Entry-level Data Science/Engineer** opportunities
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
 
