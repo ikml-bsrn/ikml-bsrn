@@ -8,6 +8,8 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 
 <img width="150" height="150" alt="aws-academy-graduate-cloud-foundations-training-badge" src="https://github.com/user-attachments/assets/92fe6b61-2f97-4e36-8c10-7efcb1858de8" />
 
+<img width="150" height="150" alt="dbt-fundamentals-badge" src="https://github.com/user-attachments/assets/c17fe305-c902-4d24-8ea0-8d8ba9761acc" />
+
 **Data Engineering & Cloud**
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
