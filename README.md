@@ -42,15 +42,12 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### ✨ Recent Highlights
+- Implemented **GitHub Actions (CI/CD)** in two projects (AWS Greenhouse & Medical RAG App), enabling automated tests for maintaining CI.
+- Completed the **dbt Fundamentals** course on dbt Learn.
 - Engineered an **automated data ingestion pipeline** from the UK Environment Agency API(s) using Apache Airflow, and **processed complex JSON data** into Silver layer using PySpark.
-- Developed a **containerised RAG pipeline** for medical Question-Answering (QA) using LangChain, Hugging Face Transformers, Docker and FastAPI.
-- Completed Cloud Essentials course for **AWS Cloud Practitioner** via AWS Academy.
-- Built an **end-to-end Python pipeline**, from acquiring data through API to cleaning and transformation, to create a transportation demand dashboard in NYC.
-- Led a **YOLO-based human detection** project for wilderness search and rescue (WiSAR).
 
 ### 🌱 Currently:
-- Designing a Digital Twin project and exploring **Local/Cloud Agentic AI Systems** using LLMs and SLMs.
-- Researching for final-year dissertation at university
+- Learning and applying **time series analysis and forecasting** on Transport for London (TfL) data for final-year dissertation at university.
 - Actively seeking **2026 Data Science Graduate Programme** and **Entry-level Data Science/Engineer** opportunities
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
