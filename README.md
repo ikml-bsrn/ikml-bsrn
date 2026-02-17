@@ -11,6 +11,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 <img width="150" height="150" alt="dbt-fundamentals-badge" src="https://github.com/user-attachments/assets/c17fe305-c902-4d24-8ea0-8d8ba9761acc" />
 
 **Data Engineering & Cloud**
+
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
