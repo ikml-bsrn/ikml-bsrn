@@ -48,7 +48,7 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 
 ### 🌱 Currently:
 - Learning and applying **time series analysis and forecasting** on Transport for London (TfL) data for final-year dissertation at university.
-- Actively seeking **2026 Data Science Graduate Programme** and **Entry-level Data Science/Engineer** opportunities
+- Actively seeking **2026 Data Science Graduate Programme** and **Entry-level Data Engineer/Python Developer** opportunities
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
 
