@@ -1,8 +1,8 @@
-## Hello! 👋
+## Hello, I'm Ikmal! 👋
 
-I'm Ikmal, a final-year Data Science student at The University of Sheffield, passionate about solving real-world problems with data-driven solutions.
+I'm a part-time Data Analyst at SPCB UK and a First Class Honours Data Science Graduate from The University of Sheffield, passionate about solving real-world problems with data-driven solutions.
 
-I like to focus on goal-oriented decision-making, meaning asking the right questions for a problem, using the right tools, and continuously improving along the way. Whether it's building agentic AI systems for workflow automation, predictive modelling, analysing messy datasets, or creating the dashboards, I'm all about learning and creating value with data.
+I thrive in goal-oriented decision-making, hence I'm always eager to bring value from the get-go by collaborating with stakeholders, asking the right questions, using tools that are fit-for-purpose, and continuously improving along the way! Whether that's creating self-serving dashboards, presenting insights with actionable steps, or  building agentic AI systems for workflow automation, I'm all about collaborating, problem solving, and adapting to create value using data.
 
 ### 🛠 Skills & Tech Stack
 
@@ -42,13 +42,16 @@ I like to focus on goal-oriented decision-making, meaning asking the right quest
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
 ### ✨ Recent Highlights
-- Implemented **GitHub Actions (CI/CD)** in two projects (AWS Greenhouse & Medical RAG App), enabling automated tests for maintaining CI.
+- Collaborated with the Marketing Manager at SPCB UK to uncover customer behaviour and perform targeted cross-selling, using **SQL** to build and maintain analytical models such as the RFM model and Market Basket Analysis.
+
+- Completed final-year dissertation titled "Comparative Analysis of Traditional and Deep Learning Models for Short-term Passenger-Flow Forecasting and Crowding Classification at King’s Cross St Pancras London Underground"
+
 - Completed the **dbt Fundamentals** course on dbt Learn.
+
 - Engineered an **automated data ingestion pipeline** from the UK Environment Agency API(s) using Apache Airflow, and **processed complex JSON data** into Silver layer using PySpark.
 
 ### 🌱 Currently:
-- Learning and applying **time series analysis and forecasting** on Transport for London (TfL) data for final-year dissertation at university.
-- Actively seeking **2026 Data Science Graduate Programme** and **Entry-level Data Engineer/Python Developer** opportunities
+- Seeking **Permanent, Full-time Data Analyst/Engineer** roles in the UK (no sponsorship required!)
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
 
