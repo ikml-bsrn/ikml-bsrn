@@ -53,6 +53,7 @@ I thrive on goal-oriented decision-making and believe in asking the right questi
 - Engineered an **automated data ingestion pipeline** from the UK Environment Agency API(s) using Apache Airflow, and **processed complex JSON data** into Silver layer using PySpark.
 
 ### 🌱 Currently:
+- Pursuing the **Microsoft Fabric Data Engineer Associate** certification
 - Seeking **Permanent, Full-time Data Analyst/Engineer** roles in the UK (no sponsorship required!)
 
 Welcome to my GitHub! Check out my projects or connect with me below 👇
