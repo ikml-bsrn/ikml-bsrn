@@ -1,8 +1,10 @@
 ## Hello, I'm Ikmal! 👋
 
-I'm a part-time Data Analyst at SPCB UK and a First Class Honours Data Science Graduate from The University of Sheffield, passionate about solving real-world problems with data-driven solutions.
+I’m a part-time Data Analyst at SPCB UK and a First Class Honours Data Science graduate from The University of Sheffield, passionate about turning complex data into real-world business solutions.
 
-I thrive in goal-oriented decision-making, hence I'm always eager to bring value from the get-go by collaborating with stakeholders, asking the right questions, using tools that are fit-for-purpose, and continuously improving along the way! Whether that's creating self-serving dashboards, presenting insights with actionable steps, or  building agentic AI systems for workflow automation, I'm all about collaborating, problem solving, and adapting to create value using data.
+At SPCB, I design and deploy SQL-based analytical models, such as RFM segmentation and Market Basket Analysis, to drive B2B customer retention and power targeted cross-selling. I love collaborating across teams to translate web traffic and e-commerce data into actionable website UX improvements that measurably boost brand awareness and conversion rates.
+
+I thrive on goal-oriented decision-making and believe in asking the right questions to deliver value from day one using the most fit-for-purpose tools. I am currently seeking **full-time Data Analytics or Data Engineering roles** within the UK, let's connect!
 
 ### 🛠 Skills & Tech Stack
 
